@@ -4,7 +4,7 @@
 
 ## :page_facing_up: Explanation
 
-The project was carried out using the framework [Next.js](https://nextjs.org) integrating with the [API](https://github.com/Kayke-Fujinaka/GCQuiz-API), which helped with authentication, registration, login and data integration. It was created in partnership with my Academy team at the GCB Group.
+The project was carried out using the framework [NestJS]([https://nextjs.org](https://nestjs.com/)) integrating with the [Interface](https://github.com/Kayke-Fujinaka/GCQuiz-Front), which helped with authentication, registration, login and data integration. It was created in partnership with my Academy team at the GCB Group.
 
 🎲 **How ​​the Project Works**
 
@@ -16,10 +16,10 @@ Before starting, you need to have [Git](https://git-scm.com) and [Node](https://
 
 ```bash
 # Clone this project
-$ git clone https://github.com/Kayke-Fujinaka/Call-System
+$ git clone https://github.com/Kayke-Fujinaka/GCQuiz-API
 
 # access
-$ cd call-system
+$ cd GCQuiz-API
 
 # install dependencies
 $ yarn or npm
